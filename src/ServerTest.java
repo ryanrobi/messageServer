@@ -5,5 +5,6 @@ public class ServerTest {
         Server emma = new Server();
         emma.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         emma.startRunning();
+        System.out.println("test");
     }
 }
