@@ -10,6 +10,7 @@ reated by https://www.gitignore.io/api/java,intellij,git
 .idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
+.idea/
 
 # Sensitive or high-churn files:
 .idea/dataSources.ids
